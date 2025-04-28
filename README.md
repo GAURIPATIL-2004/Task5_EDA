@@ -85,9 +85,3 @@ Make sure `tested.csv` is in the same directory.
 
 
 ---
-```
-
----
-
-Would you also like me to show you how to **rename files directly from GitHub** using the GitHub web UI if you need help with that? 🚀  
-(It's super quick — just a few clicks!)
